@@ -1,0 +1,32 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 292px;
+  height: 480px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle4332 {
+  opacity: 0.3;
+  position: absolute;
+  left: 25px;
+  top: 15px;
+  width: 187px;
+  height: 356px;
+  background-color: #06e7ed;
+  filter: blur(7.5px);
+}
+.buySell {
+  position: absolute;
+  left: 25px;
+  top: 15px;
+  width: 187px;
+  height: 356px;
+  border-radius: 7px;
+  background-image:/* webpackIgnore: true */ url('assets/buySell.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

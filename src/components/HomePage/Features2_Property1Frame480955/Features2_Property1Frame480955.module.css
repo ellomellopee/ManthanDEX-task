@@ -1,0 +1,92 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  padding: 16px;
+  outline: solid 0.2px #e4e4e4;
+  outline-offset: 0px;
+  border-radius: 7px;
+  background-color: #001048;
+  overflow: hidden;
+}
+.frame48095525 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.frame48095588 {
+  width: 260px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+}
+.IconTrade {
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.veryLessTransactionFee {
+  width: 218px;
+  height: min-content;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 20px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #06e7ed;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 20px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.frame48095587 {
+  width: min-content;
+  height: min-content;
+}
+.euTellusQuamIdSedUltricesInteg {
+  opacity: 0.6;
+  color: #e5e7eb;
+  font-size: 14px;
+  font-family: Rubik, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 260px;
+  height: min-content;
+  flex-direction: column;
+}

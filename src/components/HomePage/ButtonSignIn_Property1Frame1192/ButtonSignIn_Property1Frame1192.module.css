@@ -1,0 +1,47 @@
+.root {
+  width: 156px;
+  height: min-content;
+  justify-content: center;
+}
+.button5 {
+  width: min-content;
+  height: 30px;
+  align-self: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  padding: 18px 24px;
+  outline: solid 0.5px #fff;
+  outline-offset: 0px;
+  border-radius: 7px;
+  background-color: #000921;
+}
+.frame48095624 {
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.exploreMore {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector10 {
+  width: 6px;
+  height: 12px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

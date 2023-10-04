@@ -1,0 +1,31 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 95.9991px;
+  height: 27.9543px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle4331 {
+  opacity: 0.2;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 95.9991px;
+  height: 27.9543px;
+  border-radius: 7px 0 0;
+  background-color: #adfdff;
+  filter: blur(5px);
+}
+.positions {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 95.9991px;
+  height: 27.9543px;
+  background-image:/* webpackIgnore: true */ url('assets/positions.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

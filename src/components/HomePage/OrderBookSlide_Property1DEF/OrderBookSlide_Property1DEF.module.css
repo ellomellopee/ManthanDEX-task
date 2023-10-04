@@ -1,0 +1,32 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 316px;
+  height: 622px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle4335 {
+  opacity: 0.2;
+  position: absolute;
+  left: 65px;
+  top: 64px;
+  width: 186px;
+  height: 536px;
+  background-color: #06e7ed;
+  filter: blur(7.5px);
+}
+.order {
+  position: absolute;
+  left: 65px;
+  top: 64px;
+  width: 186.3002px;
+  height: 535.5233px;
+  border-radius: 7px;
+  background-image:/* webpackIgnore: true */ url('assets/order.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

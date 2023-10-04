@@ -1,0 +1,85 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1320px;
+  height: 800px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame48095564 {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  top: 726px;
+  width: 569px;
+  height: 135px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle4333 {
+  position: absolute;
+  left: -16px;
+  top: -224px;
+  width: 1190px;
+  height: 427px;
+  background-image:/* webpackIgnore: true */ url('assets/rectangle4333.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-mask-image:/* webpackIgnore: true */ url('assets/frame48095564.svg');
+  mask-image:/* webpackIgnore: true */ url('assets/frame48095564.svg');
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: -11px 135px;
+  mask-position: -11px 135px;
+  -webkit-mask-size: 596px 224px;
+  mask-size: 596px 224px;
+}
+.aORDERBOOKBASEDCOMPLETE {
+  opacity: 0;
+  position: absolute;
+  left: 0;
+  top: 651px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 40px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #e4e4e4;
+  font-size: 40px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #06e7ed;
+  font-size: 60px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #06e7ed;
+  font-size: 40px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #e4e4e4;
+  font-size: 40px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #06e7ed;
+  font-size: 40px;
+  font-family: Bai Jamjuree, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

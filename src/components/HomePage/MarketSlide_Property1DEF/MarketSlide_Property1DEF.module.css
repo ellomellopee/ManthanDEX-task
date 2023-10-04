@@ -1,0 +1,21 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 709px;
+  height: 154px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.market {
+  position: absolute;
+  left: 106px;
+  top: 41px;
+  width: 509px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('assets/market.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

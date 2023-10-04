@@ -1,0 +1,77 @@
+.blueShapeSlide.blueShapeSlide {
+  left: -19px;
+  top: 303px;
+}
+.component56.component56 {
+  left: 506px;
+  top: -7px;
+}
+.buySell.buySell {
+  background-image:/* webpackIgnore: true */ url('assets/buySell2.png');
+}
+.orderBookSlide.orderBookSlide {
+  left: -41px;
+  top: 104px;
+}
+.order.order {
+  background-image:/* webpackIgnore: true */ url('assets/order2.png');
+}
+.component72.component72 {
+  left: -49px;
+  top: 54px;
+}
+.market.market {
+  background-image:/* webpackIgnore: true */ url('assets/market2.png');
+}
+.component74.component74 {
+  left: 186px;
+  top: 404px;
+}
+.positions.positions {
+  background-image:/* webpackIgnore: true */ url('assets/positions2.png');
+}
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 798px;
+  height: 713px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.mainBlank1 {
+  position: absolute;
+  left: 61.3206px;
+  top: 49.0928px;
+  width: 736.5693px;
+  height: 516.6414px;
+  border-radius: 7px;
+  background-image:/* webpackIgnore: true */ url('assets/mainBlank1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ellipse208 {
+  position: absolute;
+  left: 654px;
+  top: 485px;
+  width: 127px;
+  height: 127px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.ellipse209 {
+  position: absolute;
+  left: 5px;
+  top: 177px;
+  width: 37px;
+  height: 37px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
