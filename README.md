@@ -1,2 +1,3 @@
 # ManthanDEX-task
-I did not know anything about react.js so i used clapy to generate react code from figma.
+Landing page for the ManthanDEX Decentralized Exchange.
+Built using react.js
